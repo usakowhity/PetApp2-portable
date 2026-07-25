@@ -1,5 +1,5 @@
 ============================================================
- PetApp2 Portable - English Guide
+ PetApp2 Portable - English Guide (Updated)
 ============================================================
 
 PetApp2 Portable is an AI-powered desktop pet application.
@@ -30,13 +30,12 @@ No installation is required. Simply extract the ZIP and run
   - Includes guides for Gemini, Copilot, and Pika.
   - Helps users generate missing images or videos externally.
 
-• **Automatic prompt generation (English & Japanese)**
+• Automatic prompt generation (English & Japanese)
   - The app automatically generates optimized prompts for all
     15 states (n1–n3, p1–p12).
   - Prompts are based on your pet’s profile (name, species,
     color, features) and the selected state.
-  - Prompts can be copied directly into external AI tools to
-    generate images or videos.
+  - Prompts can be copied directly into external AI tools.
 
 • Portable Python included
   - Works without installing Python on your system.
@@ -69,9 +68,7 @@ This application is designed around the themes of
 “connection, comfort, and love” between people and their pets.
 
 Negative or harmful states such as anger, fear, sadness,
-aggression, bullying, or abuse are intentionally excluded
-from the app’s design and behavior.
-
+aggression, bullying, or abuse are intentionally excluded.
 All 15 states are neutral or positive to ensure a gentle,
 healing, and emotionally safe experience.
 
@@ -99,18 +96,64 @@ PetApp2-portable/
  └ CREDITS.md
 
 ------------------------------------------------------------
- 6. License
+ 6. Demo Editions (3 official demos)
+------------------------------------------------------------
+
+PetApp2 Portable also includes three official demo editions
+based on dogs, cats, and rabbits.
+
+| Demo Edition | Species | Repository | Download |
+|--------------|---------|------------|----------|
+| PetApp2_shelly | Dog (Sheltie “Shelly”) | https://github.com/usakowhity/PetApp2_shelly | https://github.com/usakowhity/PetApp2_shelly/releases/latest |
+| PetApp2_mimi   | Cat (Siamese “Mimi”)   | https://github.com/usakowhity/PetApp2_mimi   | https://github.com/usakowhity/PetApp2_mimi/releases/latest |
+| PetApp2-peter  | Rabbit (Netherland Dwarf “Peter”) | https://github.com/usakowhity/PetApp2-peter | https://github.com/usakowhity/PetApp2-peter/releases/latest |
+
+------------------------------------------------------------
+ 7. PetApp2 Japanese Editions (3 new releases)
+------------------------------------------------------------
+
+Three Japanese editions based on PetApp2 Portable are now available.
+
+| Edition | Species | Description | Repository | Download |
+|---------|---------|-------------|------------|----------|
+| PetApp2-usako | White rabbit “Usako” | Japanese edition of PetApp3-frosty | https://github.com/usakowhity/PetApp2-usako | https://github.com/usakowhity/PetApp2-usako/releases/latest |
+| PetApp2-taro  | Mixed-breed dog “Taro” | Japanese edition of PetApp3-taro | https://github.com/usakowhity/PetApp2-taro  | https://github.com/usakowhity/PetApp2-taro/releases/latest |
+| PetApp2-kuro  | Black rabbit “Kuro” | Original Japanese-only edition (no English PetApp3 version) | https://github.com/usakowhity/PetApp2-kuro  | https://github.com/usakowhity/PetApp2-kuro/releases/latest |
+
+------------------------------------------------------------
+ 8. Related Links
+------------------------------------------------------------
+
+• Official Website (PetApp Series)  
+  https://usakowhity.github.io/
+
+• DesktopPetApp (previous project)  
+  https://usakowhity.github.io/DesktopPetApp/
+
+• PetApp3 – Taro Edition (Coming Soon)  
+  https://github.com/usakowhity/PetApp3
+
+------------------------------------------------------------
+ 9. Support for Rabbit Rescue Activities
+------------------------------------------------------------
+
+usakowhity supports the rescue activities of  
+**The Association for the Happiness of Rabbits and People**.
+
+The organization provides medical care, shelter, adoption,
+and educational activities for rescued rabbits, operating
+facilities such as “Fujimino Rabbit House” and “Gyoda Rabbit House”.
+
+• Activity details:  
+  https://usagi-support.org/
+
+• Support / Donations:  
+  https://usagi-support.org/?p=453
+
+------------------------------------------------------------
+ 10. License
 ------------------------------------------------------------
 
 MIT License  
-Copyright (c) 2026 usakowhity
-
-------------------------------------------------------------
- 7. Contact / Project Page
-------------------------------------------------------------
-
-Official Website:
-https://usakowhity.github.io/
-
-GitHub Project:
-https://github.com/usakowhity/PetApp2-portable
+Copyright (c) 2024–2026 usakowhity
+```
